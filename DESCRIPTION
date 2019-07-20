@@ -1,0 +1,10 @@
+Package: OutlierDetection
+Type: Package
+Title: Outlier Detection for all the variables in a data set
+Version: 0.1.0
+Author: Aishwarya Aljapur
+Maintainer: Aishwarya Aljapur <aishwaryaaljapur.1@gmail.com>
+Description: This pacakage incldes function to detect the outlier in the data
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
